@@ -1,4 +1,4 @@
-# 🐞 Hollow Knight - Clone 2D em Python
+#  Hollow Knight - 2D em Python
 
 Este é um mini-jogo inspirado em **Hollow Knight**, desenvolvido em **Python** utilizando a biblioteca **Pygame**. O projeto é uma recriação simples com foco em aprendizado e prática de programação de jogos 2D.
 
